@@ -1,3 +1,5 @@
+For now it only includes Codewars Katas.
+
 # Index of katas by its category/discipline
 
 These are the 19 code challenges I have completed:
